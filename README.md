@@ -1,4 +1,4 @@
-# Chubble Chat for Android
+## Chubble Chat for Android
 
 - Text Messaging
 - Media Sharing
